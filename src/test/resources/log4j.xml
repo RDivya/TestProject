@@ -32,6 +32,7 @@
 	<logger name="org.springframework.web">
 		<level value="info" />
 	</logger>
+	<!--changes noted here -->
 
 	<!-- Root Logger -->
 	<!-- changes in file-->
