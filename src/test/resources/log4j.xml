@@ -10,6 +10,7 @@
 		</layout>
 	</appender>
 	
+	<!-- Sample option for editing it-->
 	<!-- Application Loggers -->
 	<logger name="com.honeywell.basic">
 		<level value="info" />
