@@ -34,6 +34,7 @@
 	</logger>
 
 	<!-- Root Logger -->
+	<!-- changes in file-->
 	<root>
 		<priority value="info" />
 		<appender-ref ref="console" />
