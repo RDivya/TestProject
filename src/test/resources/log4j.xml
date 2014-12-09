@@ -41,5 +41,6 @@
 		<appender-ref ref="console" />
 	</root>
 	<!-- changes in svn -->
+	<!--changes done--?
 	
 </log4j:configuration>
