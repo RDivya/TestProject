@@ -9,7 +9,7 @@
 			<param name="ConversionPattern" value="%-5p: %c - %m%n" />
 		</layout>
 	</appender>
-	
+	<!-- sample app-->
 	<!-- Sample option for editing it-->
 	<!-- Application Loggers -->
 	<logger name="com.honeywell.basic">
