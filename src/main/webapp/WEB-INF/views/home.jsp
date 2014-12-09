@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hello world!  Welcome to jenkins integration with gitHub
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
